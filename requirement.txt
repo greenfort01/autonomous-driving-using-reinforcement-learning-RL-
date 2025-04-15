@@ -1,0 +1,5 @@
+numpy
+gym==0.26.2
+torch
+Pillow
+matplotlib
