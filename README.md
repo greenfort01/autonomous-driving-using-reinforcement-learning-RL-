@@ -9,7 +9,7 @@ Install the required packages:
 ```bash
 pip install -r requirements.txt
 
-
+```
 🧠 Features
 DQN with CNN for image input
 
